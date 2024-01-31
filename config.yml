@@ -1,0 +1,6 @@
+keybinding:
+  universal:
+    nextTab: '<right>'
+    prevTab: '<left>'
+    prevBlock: ']' # goto the previous block / panel
+    nextBlock: '[' # goto the next block / panel
